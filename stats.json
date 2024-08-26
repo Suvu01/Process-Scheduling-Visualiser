@@ -1,0 +1,8 @@
+[
+  { "process": "Process", "slots": ["A", "B", "C", "D", "E"] },
+  { "process": "Arrival", "slots": ["0", "1", "2", "3", "8"] },
+  { "process": "Service", "slots": ["3", "6", "4", "5", "2"] },
+  { "process": "Finish", "slots": ["7", "19", "13", "20", "15"] },
+  { "process": "Turnaround", "slots": ["7", "18", "11", "17", "7"] },
+  { "process": "NormTurn", "slots": ["2.33", "3.00", "2.75", "3.40", "3.50"] }
+]
